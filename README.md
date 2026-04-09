@@ -1,54 +1,53 @@
-<h1 align="left"># Hello Word</h1>
+<h1 align="center">#Hello Word 👋</h1>
 
 ###
 
-<p align="left">My name is Henzo, I'm a systems development student, and I'm from Brazil.</p>
+<div align="center">
+  <img height="150" src="https://imagens.net.br/wp-content/uploads/2024/07/explore-os-melhores-gifs-de-computador-para-programadores-e-amantes-de-tecnologia-12.gif"  />
+</div>
 
 ###
 
-<h2 align="left">About me</h2>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+</div>
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 Currently learning system development<br>🎯 Goals: To be better every day<br>🎲 Fun fact: I don't have one</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Henzo145.Henzo145&"  />
+</div>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Henzo, from Brazil<br><br>- 🔭 I'm in my first year of high school.<br>- 📚 I'm currently learning about systems development.<br>- ⚡ In my free time I gym.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henzo145/Henzo145/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henzo145/Henzo145/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Henzo145/Henzo145/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
-
-<p align="left"></p>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Henzo145.Henzo145&"  />
+  <img src="https://streak-stats.demolab.com?user=Henzo145&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
