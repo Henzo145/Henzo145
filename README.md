@@ -1,20 +1,22 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h1 align="center">Hello Word 👋</h1>
+<h1 align="left">Hello Word 👋</h1>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif"  />
+  <img height="150" src="https://thumbs.dreamstime.com/b/galinha-nerd-digitando-fora-no-laptop-uma-engra%C3%A7ada-usando-%C3%B3culos-est%C3%A1-sentada-em-frente-um-envolvido-trabalho-272363637.jpg"  />
 </div>
 
 ###
 
-<h1 align="center">👩‍💻  About Me</h1>
+<br clear="both">
+
+<h1 align="left">👩‍💻  About Me</h1>
 
 ###
 
